@@ -1,0 +1,54 @@
+.main-section{
+  font-size:16px;
+}
+header{
+  font-size:26px;
+  text-decoration:  gray;
+  margin:15px 0px 15px 0px;
+ 
+}
+
+.nav-link{
+  font-size:20px;
+  color:black;
+  display:flex;
+  flex-direction:flex-skjhjtart;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #row{
+  display:grid;
+    grid-template-columns:auto-fit ;
+    grid-template-rows:  auto-fit auto-fit;
+    grid-template-areas:
+      "nav"
+      "content";
+    
+  }
+  .well1{
+    grid-area:nav;
+    display:flex;
+    flex-flow:row wrap;
+    margin-left:20%;
+   
+  }
+  .well2{
+    grid-area:content;
+    display:flex;
+    flex-flow:row wrap;
+  }
+}
+  
+ 
+/*   .well1{
+    width:300px;
+    overflow-y: scroll;
+    overflow-x: scroll; 
+  } */
+  .well2{
+    
+  }
+  .nav-link {
+   color:blue;
+  }
+  
