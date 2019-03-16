@@ -1,6 +1,8 @@
 # freecodecamp
 #This is a series of the freecodecamp projects.
-Technologies used: html5, css3, bootstrap, javascript,.....
+
+*********Responsive Web Design Series**************
+Html,css,javascript, Jquery, React
 
 1.Tribute page for Nelson Mandela: https://codepen.io/Kose-Uk45/full/mLOxxw/
 
@@ -11,3 +13,6 @@ Technologies used: html5, css3, bootstrap, javascript,.....
 4.Product Landing Page: https://codepen.io/Kose-Uk45/full/zyXPyv
 
 5.Technical Documentation Page: https://codepen.io/Kose-Uk45/full/vvqNBB
+
+************ Apis and Microservices series ******************
+Nodejs,Express, Mongodb
