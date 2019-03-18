@@ -1,0 +1,4 @@
+To run this , you will need to have the following installed.
+NodeJs 4.X.X or later. As your primary backend.
+Mongoose module. to work with mongodb.
+...........
